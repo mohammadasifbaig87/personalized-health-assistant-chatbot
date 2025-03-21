@@ -1,0 +1,5 @@
+Healthcare Chatbot
+A Telegram bot that helps users identify potential health conditions by selecting symptoms from a list of 60 options.
+Using a rule-based system, it diagnoses 15 common diseases (e.g., flu, COVID-19, arthritis) and provides advice.
+If no match is found, it suggests consulting a doctor for rare conditions. 
+Built with Python and python-telegram-bot, it features an interactive keyboard interface and secure API token handling via .env. Ideal for preliminary health self-assessment.
